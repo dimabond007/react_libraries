@@ -1,0 +1,69 @@
+{
+  "todos": [
+    {
+      "id": "3",
+      "title": "Read JavaScript Documentation",
+      "isComplete": true
+    },
+    {
+      "id": "5",
+      "title": "Implement Context",
+      "isComplete": true
+    },
+    {
+      "id": "6",
+      "title": "Create Portfolio Website",
+      "isComplete": false
+    },
+    {
+      "id": "7",
+      "title": "Learn TypeScript",
+      "isComplete": false
+    },
+    {
+      "id": "8",
+      "title": "Refactor Codebase",
+      "isComplete": true
+    },
+    {
+      "id": "9",
+      "title": "Optimize Performance",
+      "isComplete": false
+    },
+    {
+      "id": "10",
+      "title": "Deploy to Production",
+      "isComplete": true
+    },
+    {
+      "id": "66fd",
+      "title": "omer",
+      "isComplete": false
+    },
+    {
+      "id": "77d1",
+      "title": "toto",
+      "isComplete": true
+    },
+    {
+      "id": "8444",
+      "title": "nono",
+      "isComplete": false
+    },
+    {
+      "id": "e053",
+      "title": "nana",
+      "isComplete": false
+    },
+    {
+      "id": "33bd",
+      "title": "omer",
+      "isComplete": false
+    },
+    {
+      "id": "5b1d",
+      "title": "omerrrr",
+      "isComplete": false
+    }
+  ]
+}
