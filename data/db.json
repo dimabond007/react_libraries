@@ -1,11 +1,6 @@
 {
   "todos": [
     {
-      "id": "3",
-      "title": "Read JavaScript Documentation",
-      "isComplete": true
-    },
-    {
       "id": "5",
       "title": "Implement Context",
       "isComplete": true
@@ -13,12 +8,12 @@
     {
       "id": "6",
       "title": "Create Portfolio Website",
-      "isComplete": false
+      "isComplete": true
     },
     {
       "id": "7",
       "title": "Learn TypeScript",
-      "isComplete": false
+      "isComplete": true
     },
     {
       "id": "8",
@@ -26,43 +21,33 @@
       "isComplete": true
     },
     {
-      "id": "9",
-      "title": "Optimize Performance",
-      "isComplete": false
-    },
-    {
       "id": "10",
       "title": "Deploy to Production",
+      "isComplete": false
+    },
+    {
+      "id": "0df2",
+      "title": "asdg",
+      "isComplete": false
+    },
+    {
+      "id": "97ef",
+      "title": "gasd",
       "isComplete": true
     },
     {
-      "id": "66fd",
-      "title": "omer",
-      "isComplete": false
-    },
-    {
-      "id": "77d1",
-      "title": "toto",
+      "id": "e6bf",
+      "title": "sadgas",
       "isComplete": true
     },
     {
-      "id": "8444",
-      "title": "nono",
-      "isComplete": false
+      "id": "eb3c",
+      "title": "sdfgh",
+      "isComplete": true
     },
     {
-      "id": "e053",
-      "title": "nana",
-      "isComplete": false
-    },
-    {
-      "id": "33bd",
-      "title": "omer",
-      "isComplete": false
-    },
-    {
-      "id": "5b1d",
-      "title": "omerrrr",
+      "id": "c2a2",
+      "title": "dsfgs",
       "isComplete": false
     }
   ]

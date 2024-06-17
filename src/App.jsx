@@ -1,8 +1,11 @@
+/* eslint-disable no-unused-vars */
 import React, { useState, useMemo, useEffect, useRef } from "react";
 import { AddTodoForm } from "./components/AddTodoForm";
 import { TodoStatistics } from "./components/TodoStatistics";
 import { TodoFilter } from "./components/TodoFilter";
 import { TodoList } from "./components/TodoList";
+import { Typography } from "@mui/material";
+
 import axios from "axios";
 
 const TODO_URL = "http://localhost:8001/todos/";
@@ -33,7 +36,7 @@ function App() {
   }, []);
 
   useEffect(() => {
-    newTitleInputRef.current.focus();
+    // newTitleInputRef.current.focus();
     console.log(todos);
   }, [todos]);
 
@@ -97,8 +100,8 @@ function App() {
   }
 
   return (
-    <>
-      <h1>Todo App</h1>
+    <div className="main">
+      <Typography variant="h1">Todo App</Typography>
 
       <AddTodoForm
         newTitleInputRef={newTitleInputRef}
@@ -116,7 +119,7 @@ function App() {
         handleRemoveTodo={handleRemoveTodo}
         handleToggleTodo={handleToggleTodo}
       />
-    </>
+    </div>
   );
 }
 

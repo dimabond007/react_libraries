@@ -59,8 +59,11 @@ li {
   isolation: isolate;
 }
 
-/* main {
-  } */
+.main {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
 
 #root {
   width: min(768px, 100% - 4rem);
